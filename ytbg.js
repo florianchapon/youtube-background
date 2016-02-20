@@ -22,9 +22,9 @@ $(document).ready(function () {
     var player;
 	
 	// Default value 
-	var embedId = "Kdna9gskdG4";
-	var starttime = 6; 
-	var endtime = 17;
+	var embedId = "vQWlNALvbhE";
+	var starttime = 0; 
+	var endtime = 0;
 	var setvolume = "0";
 	
 	
