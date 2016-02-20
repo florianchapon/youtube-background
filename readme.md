@@ -21,12 +21,12 @@ $(document).ready(function() {
 	ytbg("vQWlNALvbhE", 0, 17, 1);
 });
 ```
+```javascript
 ytbg("video link", starttime, endtime, volume).
-
+```
 You dont have to set every parameters because there is some default value.
 
-Default:
-
+**Default**
 Start time = 0
 End time = 0 (total video length)
 Volume = 0 (muted)
