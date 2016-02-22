@@ -10,7 +10,7 @@
 
 
 $(document).ready(function () {
-	var div = "<div id='front-background' style='position:fixed;width:100%;height:100%;z-index:2;'></div><div id='yt-background' style='position:fixed; width:100%; height:100%; z-index:1;'><div id='ytplayer' style='position: absolute;'</div>";
+	var div = "<div id='front-background' style='position:fixed;width:100%;height:100%;z-index:-1;'></div><div id='yt-background' style='position:fixed; width:100%; height:100%; z-index:-2;'><div id='ytplayer' style='position: absolute;'</div>";
 	$("body").prepend(div);
 });
 
