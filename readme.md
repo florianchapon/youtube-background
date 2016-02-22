@@ -9,6 +9,9 @@ This library is `FLEXIBLE` and highly `CUSTOMISABLE`. In fact, the embed video w
 - The end time
 - The ouput volume (on-off, and % level, from 0 to 100).
 
+### Live demo
+
+You can check the [live demo](http://florian-chapon.fr/dev/youtube-background/) .
 
 ### Installation
 
