@@ -92,13 +92,15 @@ setInterval(function(){
 	if ( width < calcH) {
 		$("#ytplayer").css("width", calcH);
 		$("#ytplayer").css("height", height);
-		$("#ytplayer").css("left", left);		
+		$("#ytplayer").css("left", left);	
+		$("#ytplayer").css("top", "0px");
 	}
 	
 	else { 
 		$("#ytplayer").css("width", width);
 		$("#ytplayer").css("height", calcW);
 		$("#ytplayer").css("top",top);
+		$("#ytplayer").css("left", "0px");
 	}
 	
 },100);		
